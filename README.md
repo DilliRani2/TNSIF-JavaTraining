@@ -44,4 +44,4 @@ We've got a custom test runner that makes sure everything is functioning flawles
 5. If everything is golden, you'll see a sick output telling you all 8 tests passed! 🎉
 
 ---
-*Built with ❤️ and coffee.*
+
